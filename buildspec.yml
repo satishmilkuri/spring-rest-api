@@ -10,5 +10,5 @@ phases:
       - echo Build completed...
 artifacts:
   files:
-    - target/Spring-Rest-Api.war
+    - target/rest-api-0.0.1-SNAPSHOT.war
   discard-paths: yes

@@ -87,7 +87,7 @@
 						<artifactId>spring-boot-maven-plugin</artifactId>
 					</plugin>
 				</plugins>
-				<finalName>Spring-Rest-Api</finalName>
+				<finalName>rest-api-0.0.1-SNAPSHOT.war</finalName>
 			</build>
 		</profile>
 	</profiles>
