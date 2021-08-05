@@ -87,6 +87,7 @@
 						<artifactId>spring-boot-maven-plugin</artifactId>
 					</plugin>
 				</plugins>
+				<finalName>Spring-Rest-Api</finalName>
 			</build>
 		</profile>
 	</profiles>
